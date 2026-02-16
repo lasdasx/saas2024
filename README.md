@@ -9,9 +9,7 @@
 | 03120844  | ΛΑΣΔΑΣ          | ΧΡΗΣΤΟΣ         |
 | 03120176  | ΚΟΝΤΟΣ          | ΓΕΩΡΓΙΟΣ         |
 
-## YouTrack
 
-[**https://saas2024-49.youtrack.cloud/agiles/160-2/current**](https://saas2024-49.youtrack.cloud/agiles/160-2/current)
 
 ### Development Environment Setup
 1. Navigate to the folder you want to clone the Source Code into.
@@ -31,8 +29,8 @@
 12. You can now browse our application :)
 
 This is how it should look like:
-![image](https://github.com/ntua/saas2024-49/assets/147999065/09cf6ca8-a7f7-4389-b919-dd47298b35d3)
+![image](https://github.com/lasdasx/saas2024/assets/147999065/09cf6ca8-a7f7-4389-b919-dd47298b35d3)
 
-![image](https://github.com/ntua/saas2024-49/assets/147999065/b8690d9d-3753-4701-ba66-0fa2d4e94b01)
+![image](https://github.com/lasdasx/saas2024/assets/147999065/b8690d9d-3753-4701-ba66-0fa2d4e94b01)
 
-![image](https://github.com/ntua/saas2024-49/assets/147999065/700472b3-905a-4af5-9693-7df3ac9bae17)
+![image](https://github.com/lasdasx/saas2024/assets/147999065/700472b3-905a-4af5-9693-7df3ac9bae17)
