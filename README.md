@@ -29,8 +29,8 @@
 12. You can now browse our application :)
 
 This is how it should look like:
-![image](https://github.com/lasdasx/saas2024/assets/147999065/09cf6ca8-a7f7-4389-b919-dd47298b35d3)
+<img width="1140" height="680" alt="image" src="https://github.com/user-attachments/assets/55d1d353-2ecb-4c80-9924-d5dfbd3aa3e8" />
 
-![image](https://github.com/lasdasx/saas2024/assets/147999065/b8690d9d-3753-4701-ba66-0fa2d4e94b01)
+<img width="1140" height="686" alt="image" src="https://github.com/user-attachments/assets/d4c2254e-eee6-41b4-a3f5-63eeb3ce0014" />
 
-![image](https://github.com/lasdasx/saas2024/assets/147999065/700472b3-905a-4af5-9693-7df3ac9bae17)
+<img width="1140" height="646" alt="image" src="https://github.com/user-attachments/assets/7cf7eb0d-eab2-4ea9-a5d6-13643ce990f6" />
